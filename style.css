@@ -15,8 +15,9 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-section {
+.flexible-container {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -35,4 +36,22 @@ section {
     padding: 10px 30px;
     border-radius: 10px;
     color: navy;
+}
+
+.experience {
+    padding-left: 5%;
+}
+
+#baby-web {
+    margin-left: 5%;
+    margin-right: 60%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 5px 20px grey;
+    border-left: 7px solid tomato;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 100px;
 }
