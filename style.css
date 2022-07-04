@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 45px;
+}
+
+#name-color {
+    color: steelblue;
+}
+
+body {
+    font-family: 'Arima', cursive;
+}
+
+.josefin-sans {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background: linear-gradient(to bottom right, #33ccff 0%, #ccffff 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: navy;
+}
